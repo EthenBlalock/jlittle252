@@ -6,7 +6,8 @@
 #include <unordered_map>
 // Hi my name is Ethen
 // Token struct to hold the lexeme and its type
-//yooooooooo
+// yooooooooo
+// COMP 360
 struct Token {
     std::string lexeme;
     std::string type;
