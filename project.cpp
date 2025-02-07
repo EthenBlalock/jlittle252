@@ -8,6 +8,7 @@
 // Token struct to hold the lexeme and its type
 // yooooooooo
 // COMP 360
+// change
 struct Token {
     std::string lexeme;
     std::string type;
