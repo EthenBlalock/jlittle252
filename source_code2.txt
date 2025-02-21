@@ -1,0 +1,4 @@
+float mul (float data1, float number ) {
+data1 = data1 * number;
+while (data >= const)
+}

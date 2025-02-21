@@ -1,0 +1,9 @@
+float sample1 (){
+float data;
+float num;
+float diff;
+float data;
+data = data * num / dif;
+while (n >= 10)
+n = n * diff;
+}
